@@ -1,0 +1,56 @@
+html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                background-color: #c4c4c4;
+            }
+
+#headers {
+	text-align: center;
+	font-family: 'Exo 2', sans-serif;	
+	color: green;
+	margin-bottom: 0px;
+	text-shadow:
+    -1px -1px 0 #ffffff,
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff;  
+}
+#number {
+    font-family: 'Exo 2', sans-serif;
+    color: green;
+    text-shadow:
+    -1px -1px 0 #ffffff,
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff;  
+}
+ #numberRow {
+ 	text-align: center;
+ }
+
+#container {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#land {
+	margin-top: 65px;
+	margin-bottom: 0px;
+}
+
+#trees{
+	text-align: center;
+}
+
+#mason {
+	margin-top: 65px;
+}
+
+.imgCircle {
+	 border-radius: 50%;
+	 height: 300px;
+	 width: 400px;
+	 border:2px solid green;
+}
